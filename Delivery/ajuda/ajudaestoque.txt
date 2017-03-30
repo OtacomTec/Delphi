@@ -1,0 +1,13 @@
+		AJUDA ESTOQUE
+
+
+-O estoque geral é o resultado de das entradas - (vendas no balcão + pedidos).
+
+Obs: Para que seu estoque fique organizado, não preencha o nome e a descrição do produto, cadastre o produto, depois digite o código na grada que o mesmo aparecer nas entradas e saídas.
+
+- O estoque mínimo, exibe os produtos que estã com o mínimo em estoque estourado.
+
+
+-O inventário é individual, para cada empresa.
+
+

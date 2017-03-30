@@ -1,0 +1,52 @@
+CADASTRO DE FORNECEDOR
+
+
+Clique no menu CADASTRO e clique em FORNECEDOR. Vamos cadastrar os fornecedores que serão utilizados em outras telas.
+
+
+Outra maneira de entrar. Feche este cadastro:
+
+Veja esta barra de nomes, onde está escrito 'MENU PRINCIPAL", digite aí FORNECEDOR e tecle ENTER.
+
+Tecle INSERT, vá preenchendo os dados e teclando ENTER, até preencher toda a ficha.
+
+Tecle INSERT novamente e cadastre outro.
+
+Para cadastrar mais fornecedor, tecle INSERT, ao terminar, tecle ALT + G.
+
+
+Obs: O campo FANTASIA não poder repetir. Caso aconteça o programa emitirá uma mensagem de duplicação.
+
+
+O botão GERAR CLIENTE, gera uma ficha de cliente a partir do fornecedor selecionado.
+
+O botão "PRODUTO COMPRADO", gera uma lista de produtos comprados deste fornecedor.
+
+Consulte o fornecedor clicando nas palavras grifadas (Código, Fantasia, CNPJ, etc.).
+
+Tecle F2 e consulte o cliente, numa consulta aproximada.
+
+
+Caso queira cadastrar mais, faça o mesmo processo, tecle INSERT, preencha os campos, no fim, clique em GRAVAR ou tecle ALT + G.
+
+
+Este programa possui uma barra de status, nas telas, elas indicam o que cada componente da tela pode fazer, preste atenção.
+
+Vai movendo o mouse, lentamente, pela tela e olhe na barra de status, na parte inferior da tela de cadastros de estados.
+
+
+ENVIAR EMAIL
+
+Obs: Se você não configurou seu e-mail, não deve utilizar esta opção.
+
+Clique, na grade, no primeiro registro, mantenha a tecla CTRL pressionada e clique em outro, veja que ambos ficaram selecionados, clique em ENVIAR EMAIL.
+
+
+IMPRIMIR
+
+Para imprimir, clique em imprimir.
+
+Para finalizar, deverá cadastrar todos necessários.
+
+Clique no "X" da janela, para fechar.
+

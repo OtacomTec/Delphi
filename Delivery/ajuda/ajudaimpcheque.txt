@@ -1,0 +1,10 @@
+		AJUDA IMPRESSÃO DE CHEQUE
+
+
+-Esta tela funciona para preencher cheque.
+
+-Preencha os dados e coloque sue cheque na impressora.
+
+
+
+

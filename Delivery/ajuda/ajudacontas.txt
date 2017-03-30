@@ -1,0 +1,22 @@
+			CONTAS
+
+
+
+-Clique no botão novo antes de cadastrar.
+
+-O nº da duplicata não poderão repetir(duplicar).
+
+-Consulte clicando no nome do campo que estiver grifado, ou teclando F3 no campo.
+
+-Nesta listagem de nomes (à direita) poderá consultar aproximadamente.
+
+-Use: F2 para mudar de cadastro para consulta, Insert para novo registro.
+
+-Guia consulta poderá filtrar e imprimir contas, por vários critérios.
+
+-Em Conta a receber possui ainda, impressão de duplicata, recibo e carnê.
+
+-Observe a barra de status, ela indica toda tela que o mouse estiver.
+
+
+

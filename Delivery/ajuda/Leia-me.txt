@@ -1,0 +1,20 @@
+Saudações,
+
+
+	Você instalou o aplicativo LMDelivery - 2.7.
+		        
+	As atualizações são feitas a cada 15 dias. O sistema pode ser executado durante 15 dias,   
+após este periodo será solicitada uma senha para o registro do software. Este sistema pode ser 
+adquirido com ou sem os códigos fontes. Dados para acessar o programa:
+
+Usuário: NOME
+Senha: SENHA
+
+
+
+Atenciosamente,
+
+
+
+www.delphifontes.com.br - Programas com fontes em Delphi...
+(34) 3262-0818, 9158-7421

@@ -1,0 +1,64 @@
+CONTAS A RECEBER
+
+
+Clique no menu FINANCEIRO e clique em CONTAS A RECEBER.
+
+
+Outra maneira de entrar. Feche este cadastro:
+
+Veja esta barra de nomes, onde está escrito 'MENU PRINCIPAL", digite aí CONTAS A RECEBER e tecle ENTER.
+
+
+Nesta tela, os dados serão inseridos de duas maneiras:
+
+1ª Ao gerar contas em Pedido Cliente, Venda no Balcão,  ou Ordem de Serviços.
+2ª Poderá clicar no botão novo e gerar sua conta independentemente.
+
+O FLUXO DE CAIXA, que vamos ver mais adiante, depende das contas a pagar e receber.
+
+
+Tecle INSERT, preencha o nº do documento, caso tenha letra, (no caso de duplicata.  ex:  000005 A)  ou dígito, coloque a letra neste campo a frente.
+
+No campo código, poderá digitar, ou teclar F12, para consulta.
+
+O campo vencimento possui duas formas: O primeiro poderá digitar a data de vencimento, o segundo é para contas À VISTA ou CONT. APRESENTAÇÃO. Como estes campos não são datas, só poderão ser inseridos no segundo campo.
+
+O tipo de conta e tipo de recebimento vão gravando, cada vez que inserir uma conta diferente, não precisará digitar na próxima vez, a mesma aparecerá nesta caixa de combinação (listagem).
+
+Poderá cadastrar todas as suas contas aí. Adiante imprimiremos tudo por período.
+
+
+Tecle F2 e consulte, numa consulta aproximada.
+
+
+IMPRIMIR
+
+1-Para imprimir duplicata, clique no botão DUPLICATA.
+2-Para configurar sou modelo de duplicata, clique em configurar.
+3-Clique em Carnê, para imprimir.
+4-Clique em Boleto, para imprimir ou configurar para seu modelo.
+5-Para imprimir as contas, clique em imprimir contas.
+
+
+Este programa possui uma barra de status, nas telas, elas indicam o que cada componente da tela pode fazer, preste atenção.
+
+Vai movendo o mouse, lentamente, pela tela e olhe na barra de status, na parte inferior da tela de cadastros de estados.
+
+
+CONSULTAS
+
+Clique na ABA CONSULTA. Veja que temos várias opções.
+
+Para exibir em ordem alfabética, clique no cabeçalho da coluna (para testar clique em Cidade). 
+
+
+Digite um período e comece a pesquisar. Obs: Caso não digite um período, a consulta será das contas de todos os tempos.
+
+
+Clique em IMPRIMIR e escolha por grupo.
+
+
+Clique no "X" da janela, para fechar.
+
+
+

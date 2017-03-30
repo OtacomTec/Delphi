@@ -1,0 +1,18 @@
+AJUDA PRODUTO
+
+
+-Encontre o produto e tecle insert, digite a quantidade.
+
+-Repita o processo até que todos os produtos sejam inseridos.
+
+-O botã consumidores exibe cliente que consome o produto selecionado.
+
+-O botão Limpar cancela a pesquisa.
+
+-Tecle F4 para exibir a imagem do produto.
+
+-Tecle + ou - para zoom na imagem do produto. 
+
+
+
+

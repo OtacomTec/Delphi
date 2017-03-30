@@ -1,0 +1,243 @@
+CADASTRO DE PRODUTO
+
+
+Clique no menu CADASTRO e clique em PRODUTO. 
+
+
+Veja que a tela de cadastro apareceu.
+
+Outra maneira de entrar:
+
+Feche esta tela de cadastro de estado, clicando no X. Veja esta barra de nomes, onde está escrito 'MENU PRINCIPAL", digite aí PRODUTO e tecle ENTER.
+
+Antes de cadastrar os produtos, deverá cadastrar o grupo. O grupo é para facilitar a procura por produto, assim seu cadastro vai ficar organizado.
+
+Você tem aí as abas GRUPO e  PRODUTO, clique na aba GRUPO, tecle INSERT, para abrir um novo, digite AR, para sigla do grupo, tecle ENTER, digite ARMÁRIO, para nome do grupo.
+
+Tecle INSERT, para novo  grupo, digite SF, para a sigla do grupo, tecle ENTER, digite SOFÁ, para nome do grupo.
+
+Tecle INSERT, para novo  grupo, digite PC, para a sigla do grupo, tecle ENTER, digite PEÇA, para nome do grupo.
+
+Tecle INSERT, para novo  grupo, digite MP, para a sigla do grupo, tecle ENTER, digite MATÉRIA-PRIMA, para nome do grupo, tecle ALT + G, para gravar.
+
+
+Temos 2 grupos cadastrados.
+
+
+LOCALIZAR GRUPO
+
+Clique em SIGLA, digite AR e tecle enter.
+
+Todas estas palavras grifadas servem para localizar o campo abaixo, é só clicar e digitar o nome ou número completo.
+
+Outra maneira de localizar:
+
+Clique no campo NOME DO GRUPO , como se fosse digitar e tecle F3. Digite o nome e clique OK.  
+
+
+Este programa possui uma barra de status, nas telas, elas indicam o que cada componente da tela pode fazer, preste atenção.
+
+Vai movendo o mouse, lentamente, pela tela e olhe na barra de status, na parte inferior da tela de cadastros de estados.
+
+
+Para indexar (ordem alfabética, caso não esteja), clique em Sigla, no cabeçalho da coluna.
+
+Já temos grupos cadastrados, vamos cadastrar os produtos:
+
+
+Clique na aba PRODUTO. 
+
+Em VR. VENDA digite 50, isto significa que todo produto vai aparecer com o preço de venda calculado 50%, sobre o de compra, caso queira que os produtos tenham porcentagem diferentes, não se preocupe, ao cadastrar os produtos poderá mudar, definindo uma percentagem para cada um.
+
+
+CAMPOS DO CADASTRO DE PRODUTO
+
+Código = Código do produto, alfa numérico de até 13 dígitos (requerido, tem que preencher).
+Produto = Nome do produto.
+Descrição = Descrição do produto
+Medida = Medida do produto (em um registro, o nome, a descrição e a medida, não poderão ser iguais) (opcional).
+ Un = Unidade
+Vr. Unit. = Valor de compra
+Percent = Percentagem sobre o valor de compra (vr. unit.).
+Vr. Venda = O valor de venda do produto.
+Min = Qtd. mínima deste produto que deve permanecer no estoque.
+Cod. For. = Código do fornecedor (opcional).
+Cod. Barra = Código de barras do produto (opcional).
+Peso = Peso do produto (opcional).
+C. Fiscal = Classificação fiscal (opcional)l.
+N.I. = Nacional ou Importado (opcional).
+Aplicação = Em caso de peça, onde ela pode ser aplicada (opcional).
+Prat. = Em qual prateleira está armazenado (opcional).
+Gav. = Em qual gaveta está armazenado (opcional).
+IPI = O IPI que o produto pago (opcional).
+Clique em na imagem e escolha uma figura.
+
+Obs:Este programa está em uma pasta em c:\, com o nome do programa, dentro de sua pasta tem uma pasta chamada IMAGEM, coloque as figuras (imagens de produtos) aí.
+
+Tecle INSERT, para cadastrar o primeiro produto.
+
+
+Código = 1
+Produto = SOFÁ
+Descrição = 2 E 3 LUGARES
+Medida = GRANDE
+Un = PC
+Vr. Unit. = 300
+Percent = 39
+Vr. Venda = (CALCULA AUTOMÁTICO)
+Min = 5
+Cod. For. = 01
+Cod. Barra = 1111111111111
+Peso = 30K
+C. Fiscal = 0001
+N.I. = N
+Aplicação = 
+Prat. = 
+Gav. = 
+IPI = 3
+Clique em na imagem e escolha uma figura.
+
+
+Tecle INSERT novamente, para cadastrar outro produto.
+
+
+Código = 2
+Produto = SOFÁ
+Descrição = 1 E 2 LUGARES
+Medida = PEQUENO
+Un = PC
+Vr. Unit. = 200
+Percent = 50
+Vr. Venda = (CALCULA AUTOMÁTIMENTE)
+Min = 4
+Cod. For. = 02
+Cod. Barra = 2222222222222
+Peso = 20K
+C. Fiscal = 0002
+N.I. = N
+Aplicação = 
+Prat. = 
+Gav. = 
+IPI = 3
+Clique em na imagem e escolha uma figura.
+
+
+CADASTRAR EM OUTRO GRUPO
+
+Clique na palavra SIGLA, digite AR. O grupo ARMÁRIO foi localizado, vamos cadastrar os produtos deste grupo.
+
+Tecle INSERT e preencha:
+
+
+Código = 3   (obs: o código não se repete, nem em grupos diferentes).
+Produto = ARMÁRIO
+Descrição = 8 PORTAS
+Medida = 2 X 2,5 X 3
+Un = PC
+Vr. Unit. = 400
+Percent = 50
+Vr. Venda = (CALCULA AUTOMÁTIMENTE)
+Min = 5
+Cod. For. = 03
+Cod. Barra = 3333333333333
+Peso = 15K
+C. Fiscal = 0003
+N.I. = N
+Aplicação = 
+Prat. = 
+Gav. = 
+IPI = 5
+Clique em na imagem e escolha uma figura.
+
+
+
+Clique na palavra SIGLA, digite MP. O grupo foi localizado, vamos cadastrar os produtos deste grupo.
+
+Tecle INSERT e preencha:
+
+
+Código = 4   (obs: o código não se repete, nem em grupos diferentes).
+Produto = TÁBUA
+Descrição = ENVERNIZADA
+Medida = 2 X 0,5 X 3
+Un = PC
+Vr. Unit. = 1
+Percent = 50
+Vr. Venda = (CALCULA AUTOMÁTIMENTE)
+Min = 5
+Cod. For. = 04
+Cod. Barra = 4444444444444
+Peso = 2K
+C. Fiscal = 0004
+N.I. = N
+Aplicação = ARMÁRIO
+Prat. = 3
+Gav. = 1
+IPI = 5
+Clique em na imagem e escolha uma figura.
+
+
+Clique na palavra SIGLA, digite PC. O grupo foi localizado, vamos cadastrar os produtos deste grupo.
+
+Tecle INSERT e preencha:
+
+
+Código = 5   (obs: o código não se repete, nem em grupos diferentes).
+Produto = TUBO DE IMAGEM
+Descrição = COLORIDO
+Medida = 14''
+Un = PC
+Vr. Unit. = 100
+Percent = 50
+Vr. Venda = (CALCULA AUTOMÁTIMENTE)
+Min = 5
+Cod. For. = 05
+Cod. Barra = 5555555555555
+Peso = 5K
+C. Fiscal = 0005
+N.I. = I
+Aplicação = TV
+Prat. = 4
+Gav. = 2
+IPI = 
+Clique em na imagem e escolha uma figura.
+
+
+
+Obs: Matéria-Prima é cadastrada no mesmo local, ao utilizar nas montagens, filtraremos o grupo.
+
+
+IMPRIMINDO PRODUTOS CADASTRADOS.
+
+Clique no botão IMPRIMIR e escolha uma opção (imprimir um grupo ou todos).
+
+O botão "consumidores" mostra os cliente que consomem este produto.
+
+
+LOCALIZAR PRODUTO:
+
+
+Para localizar um produto, clique em Código (palavra grifada), digite 2, tecle enter. O código não será localizado, afinal este produto pertence a outro grupo (sofá).
+
+
+ALTERAR O VALOR DE UM GRUPO
+
+Em alterar Vr. Uni., digite 10, tecle enter e confirme.
+
+
+Para acessar todos os produtos clique em CONSULTA/FILTRO, na parte inferior esquerda da tela.
+
+Nesta tela, poderá consultar e filtrar de todas as formas os produtos cadastrados e imprimir.
+
+-Clique no botão GRUPO, digite SF e tecle enter. Clique no botão Cancelar.
+-Clique no botão PRODUTO, digite ARMÁRIO e tecle enter.
+-Clique no botão VR UNIT>=, digite 300 e tecle enter. Lista de produto igual ou maior 300 reais
+-Clique no botão IMPORTADO.
+-Clique no botão NACIONAL.
+
+-Clique em IMPRIMIR, escolha PADRÃO.
+-Clique em IMPRIMIR, escolha LISTA DE PREÇOS.
+
+
+Saia da tela de produtos.
+

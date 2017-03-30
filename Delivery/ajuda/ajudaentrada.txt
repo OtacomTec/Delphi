@@ -1,0 +1,92 @@
+ENTRADA DE PRODUTO
+
+
+Clique no menu ENTRADAS E SAÍDAS e clique em ENTRADA DE PRODUTO, ou digite ENTRADA  e tecle enter na barra de nomes. 
+
+
+AO DAR ENTRADAS, ALIMENTARÁ O ESTOQUE E PODERÁ GERAR CONTAS A PAGAR.
+
+
+Tecle INSERT, preencha os campos NOTA e PEDIDO, tecle F12, no campo código, localize o fornecedor e tecle ENTER.
+
+Obs: Poderíamos ter digitado o código do fornecedor e teclado enter, no campo código, teclamos F12 só para usar esta tela de consulta, que vai ser necessária, um dia.
+
+Depois de ter preenchido o cabeçalho, vamos para a grade.
+
+Na coluna CÓDIGO, tecle F12, acessamos os produtos cadastrados.
+
+- Digite a letra S e veja que o programa filtra os produtos que começam com S.
+- Apague o S, tecle seta para cima e para baixo, assim poderá selecionar um produto.
+- Clique em GRUPO, o grupo SF (sofá).
+- Clique no botão limpar, para anular o filtro.
+- Clique em DESCRIÇÃO, escolha 1 E 2 LUGARES
+
+Temos  aí, várias opções de filtro.
+
+Clique no cabeçalho de uma coluna, para colocar em ordem alfabética.
+
+Depois de escolher seu produto, tecle INSERT, digite a quantidade, sem sair da tela, tecle INSERT novamente, digite a quantidade e pode sair da tela.
+
+
+
+Estas palavras grifadas (Entrada, NF, Pedido, Fantasia) são para localizar ENTRADAS já processadas, poderá clicar ou teclar F3 nestes campos.
+
+
+IMPRIMIR
+
+Clique no botão IMPRIMIR.
+
+
+Clique no botão NOVO, para uma nova entrada.
+
+Obs: O nº da nota e o código do fornecedor, não podem ser iguais, uma nota só pode dar uma entrada.
+
+
+Obs: Se a grade estiver selecionada, ao clicar no botão NOVO, será aberto um registro novo na grade, para isto não acontecer, clique em um campo antes de clicar novo. O mesmo acontece com o DELETE.
+
+
+Poderá acessar outros cadastro, utilizando o botão direito do mouse.
+
+Na grade, digite 2, na coluna Código e tecle ENTER, digite a quantidade = 2,5, tecle enter.
+
+
+Toda vez que chegar mercadorias: Clique no botão novo e dar uma nova entrada.
+
+
+ESTOQUE
+
+Clique em um produto na grade, no campo código e tecle F5.
+
+
+Tecle F2 para navegar entre grade e cabeçalho.
+
+
+GERAR CONTAS
+
+Em Condições de Faturamento (acima da coluna total), escolha, clicando, como vai ser o pagamento. Use uma  opção que gerar mais de uma parcela.
+
+Para ver as contas geradas, clique com o botão direito e escolha Contas a Pagar.
+
+
+Feche contas a paga.
+
+
+FILTROS E CONSULTAS
+
+Clique na ABA CONSULTA. Veja que temos várias opções.
+
+Para exibir em ordem alfabética, clique no cabeçalho da coluna. 
+
+Poderás digitar um período, assim terás um filtro por data, depois clique em um botão e terás um filtro por data e o critério que escolher (por produto ou fornecedor).
+
+
+IMPRIMIR
+
+Para imprimir a seleção, clique em imprimir. Escolha consulta normal, depois por fornecedor.
+
+Feche esta tela.
+
+
+
+
+

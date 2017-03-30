@@ -1,0 +1,7 @@
+	AJUDA LISTA CLIENTE
+
+-Encontre o cliente e tecle enter para que seu código entre na tela
+de origem, depois tecle enter novamente.
+
+
+

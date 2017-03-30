@@ -1,0 +1,9 @@
+AJUDA - FLUXO DE CAIXA
+
+
+-O Fluxo de Caixa, é o resultado das contas a receber - a pagar.
+
+- O programa dispõe de dois tipos: analítico (poderá escolher um período) e sintético(exibe o acúmulo).
+
+
+

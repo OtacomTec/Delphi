@@ -1,0 +1,7 @@
+		AJUDA LISTA FORNECEDOR
+
+-Encontre o fornecedore tecle enter para que seu código entre na tela
+de origem, depois tecle enter novamente.
+
+
+

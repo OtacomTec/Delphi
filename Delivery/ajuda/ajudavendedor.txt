@@ -1,0 +1,66 @@
+CADASTRO DE VENDEDOR
+
+
+Clique no menu CADASTRO e clique em VENDEDOR. Vamos cadastrar os vendedores que serão utilizados em outras telas.
+
+Obs: Caso não tenha vendedores, não precisa cadastrar.
+
+Veja que a tela de cadastro de vendedor apareceu.
+
+Outra maneira de entrar:
+
+Feche esta tela de cadastro de estado, clicando no X. Veja esta barra de nomes, onde está escrito 'MENU PRINCIPAL", digite aí VENDEDOR e tecle ENTER.
+
+Antes de digitar, clique sempre no botão NOVO, ou tecle INSERT. Faça isso sempre, em qualquer tela, sempre que quiser um novo.
+
+Ao clicar no botão novo, digite o telefone, tecle ENTER, vai preenchendo os campos e teclando ENTER.
+
+Caso queira cadastrar mais, faça o mesmo processo, tecle INSERT, preencha os campos, no fina clique em GRAVAR ou tecle ALT + G.
+
+Obs: Todos os botões têem uma letra grifada, para simular o clique neste botão, tecle ALT + a letra grifada, no caso do botão gravar a letra grifada é "G", por isso teclamos ALT + G.
+
+Obs: O Campo RG é requerido, ou seja, não pode ficar sem preencher. O campo Percentagem não é requerido, mas é por causa dela que estamos cadastrando os vendedores, portanto preencha-o.
+
+Preencha, pelo menos agora, o campo e-mail, para aprendermos a enviar EMAIL a partir do cadastro.
+
+
+Temos dois vendedores cadastrados.
+
+Vamos ver outros recursos que estão também em outras telas.
+
+
+LOCALIZAR VENDEDOR
+
+Clique em Código, digite um e tecle enter.
+
+Todas estas palavras grifadas servem para localizar o campo abaixo, é só clicar e digitar o nome ou número completo.
+
+Outra maneira de localizar:
+
+Clique no campo NOME, como se fosse digitar e tecle F3. Digite o nome e clique OK.  
+
+
+LOCALIZAR APROXIMADAMENTE
+
+Tecle F2 e veja que o local de localizar aproximadamente (parte direita da tela) está esperando digitar, digite a inicial de um vendedor.
+
+Obs: Use este recurso em todas as telas que possuem esta grade à direita.
+
+Este programa possui uma barra de status, nas telas, elas indicam o que cada componente da tela pode fazer, preste atenção.
+
+Vai movendo o mouse, lentamente, pela tela e olhe na barra de status, na parte inferior da tela de cadastros de estados.
+
+
+ENVIAR EMAIL
+
+Obs: Se você não configurou seu e-mail, não deve utilizar esta opção.
+
+Clique, na grade, no primeiro vendedor, mantenha a tecla CTRL pressionada e clique em outro, veja que ambos ficaram selecionados, clique em ENVIAR EMAIL.
+
+
+Para finalizar, deverá cadastrar todos.
+
+
+Clique no "X" da janela, para fechar.
+ 
+Pratique bastante este comando, todas as telas funcionam assim.

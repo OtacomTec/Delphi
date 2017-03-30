@@ -1,0 +1,76 @@
+PEDIDO AO FORNECEDOR
+
+
+Clique no menu ENTRADAS E SAÍDAS e clique em PEDIDO AO FORNECEDOR. 
+
+
+Tecle INSERT, tecle F12, localize o fornecedor e tecle ENTER.
+
+Obs: Poderíamos ter digitado o código do fornecedor e teclado enter, no campo código, teclamos F12 só para usar esta tela de consulta, que vai ser necessária, um dia.
+
+Depois de ter preenchido o cabeçalho, vamos para a grade.
+
+Na coluna CÓDIGO, tecle F12, acessamos os produtos cadastrados.
+
+- Digite a letra S e veja que o programa filtra os produtos que começam com S.
+- Apague o S, tecle seta para cima e para baixo, assim poderá selecionar um produto.
+- Clique em GRUPO, o grupo SF (sofá).
+- Clique no botão limpar, para anular o filtro.
+- Clique em DESCRIÇÃO, escolha 1 E 2 LUGARES
+- Tecle F4 para imagem do produto grande
+
+Temos  aí, várias opções de filtro.
+
+Clique no cabeçalho de uma coluna, para colocar em ordem alfabética.
+
+Depois de escolher seu produto, tecle INSERT, digite a quantidade, sem sair da tela, tecle INSERT novamente, digite a quantidade e pode sair da tela.
+
+
+Estas palavras grifadas (Pedido, Código, Fantasia) são para localizar pedidos ao fornecedor já emitidos, poderá clicar ou teclar F3, não pense que irá localizar fornecedor aí.
+
+
+
+IMPRIMIR
+
+Clique no botão IMPRIMIR.
+
+
+Clique no botão NOVO, para um novo pedido.
+
+Obs: Se a grade estiver selecionada, ao clicar no botão NOVO, será aberto um registro novo na grade, para isto não acontecer, clique em um campo antes de clicar novo. O mesmo acontece com o DELETE.
+
+Digite 2, para o campo código. AH! Não tem o fornecedor código 2 cadastrado? Não tem problema, clique com o botão direito do mouse, escolha "FORNECEDOR", cadastra e fecha a tela de fornecedor, agora poderá digitar o código 2 e teclar ENTER.
+
+Na grade, digite 3, na coluna Código e tecle ENTER, digite a quantidade = 2, tecle enter.
+
+
+Tecle F2 para navegar entre grade e cabeçalho.
+
+Algumas empresas fazem pedido e a mercadoria não chega tudo de uma vez, poderá controlar esta chegada aí. Se não trabalhas assim, não precisa fazer nada.
+
+Na coluna Qtd. Entrada ou Saldo (em azul), ao clicar, um botão aparecerá, clique no mesmo.
+
+Uma tela de baixa aparecerá, na grade de baixa, digite a data e a quantidade de mercadoria que chegou (digite um número menor do que o pedido).
+
+Podes observar que no topo desta tela, está o pedido que está dando baixa, clicando no número, poderá localizar outros pedidos e dar baixa. 
+
+-Clique em IMPRIMIR, escolha a opção A, depois escolha Imprimir Todos os Pedidos./
+-Clique em IMPRIMIR novamente, escolha a opção T.
+
+Feche esta tela.
+
+
+CONSULTAS
+
+Clique na ABA CONSULTA. Veja que temos várias opções.
+
+Para exibir em ordem alfabética, clique no cabeçalho da coluna. 
+
+Poderás digitar um período, assim terás um filtro por data, depois clique em um botão e terás um filtro por data e o critério que escolher (por produto, fornecedor).
+
+
+IMPRIMIR
+
+Para imprimir a seleção, clique em imprimir.
+
+Feche esta tela.

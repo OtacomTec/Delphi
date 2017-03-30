@@ -1,0 +1,34 @@
+CADASTRO DE FATURAMENTO
+
+
+Clique no menu CADASTRO e clique em FATURAMENTO. Este cadastro será usado em entradas e vendas. Vamos cadastrar nele as opções de compra e vendas.
+
+
+Veja que a tela de cadastro de faturamento apareceu.
+
+
+Antes de digitar, clique sempre no botão NOVO, ou tecle INSERT. Faça isso sempre, em qualquer tela, sempre que quiser um novo.
+
+Digite, no campo Qtd. Parcela, um, tecle ENTER, digite À VISTA no campo Descrição, tecle ENTER, digite 0 (zero), no campo Cond. Pgto1.
+
+Tecle INSERT, digite um, tecle ENTER, digite APRES., tecle ENTER, digite 0.
+
+Tecle INSERT, digite 3, tecle ENTER, digite 10, 20 e 30 DIAS, tecle ENTER, digite 10, tecle ENTER, digite 20 (em cond.pgto2), tecle ENTER, digite 30 (em cond. pgto3).
+
+Tecle ALT + G, para gravar.
+
+Para localizar um faturamento, clique em Qtd. Parcela, ou use a localização aproximada, como fizemos anteriormente.
+
+
+Para terminar:
+
+- O campo Qtd. Parcelas deverá preencher com o número de parcelas.
+- O Campo descrição, o histórico do faturamento.
+- Os campos Cond. Pgto. 1, 2, 3 e 4, o intervalo de dias.
+
+
+Siga o modelo e cadastre todos os faturamentos. 
+
+Feche esta tela.
+
+

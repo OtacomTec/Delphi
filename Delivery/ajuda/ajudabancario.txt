@@ -1,0 +1,17 @@
+		AJUDA BANCO
+
+
+-Cadastrar o proprietário e gravar
+
+-Cadastrar os dados do banco e gravar. Se trabalhar com mais de um banco, clique no botão Novo e cadastre mais banco.
+
+-Para cada banco, poderá cadastrar várias contas, seguindo o exemplo de cadastro de banco.
+
+-Para cada conta, poderá lançar débitos e créditos, em Movimento de Contas.
+
+-Na guia consulta, poderá emitir relatório de contas.
+
+-Clique no botão cheque, para controlar os cheques emitidos.
+
+
+

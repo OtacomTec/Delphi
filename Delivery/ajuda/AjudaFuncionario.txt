@@ -1,0 +1,52 @@
+CADASTRO DE FUNCIONÁRIO
+
+Este controle é à parte, caso não queira utilizar, poderá dispensar.
+
+Caso queira utilizar faça:
+
+Clique no menu CADASTRO e clique em FUNCIONÁRIO. 
+
+
+Outra maneira de entrar. Feche este cadastro:
+
+Veja esta barra de nomes, onde está escrito 'MENU PRINCIPAL", digite aí FUNCIONÁRIO e tecle ENTER.
+
+Tecle INSERT, vá preenchendo os dados e teclando ENTER, até preencher toda a ficha.
+
+Tecle INSERT novamente e cadastre outro.
+
+Para cadastrar mais funcionário, tecle INSERT, ao terminar, tecle ALT + G.
+
+
+Obs: O campo RG não poder repetir. Caso aconteça o programa emitirá uma mensagem de duplicação.
+
+
+Consulte o fornecedor clicando nas palavras grifadas (Código, Apelido, RG).
+
+Tecle F2 e acesse a tela de cadastro. Tecle F2 e acesse a grade. Tecle F2 e acesse a consulta aproximada.
+
+
+Caso queira cadastrar mais, faça o mesmo processo, tecle INSERT, preencha os campos, no fim, clique em GRAVAR ou tecle ALT + G.
+
+Preencha a grade abaixo, como se estivesse pagando um salário.
+
+Tecle ALT + G, para gravar.
+
+Clique no botão GERAR CONTA
+
+Clique com o botão direito do mouse, um menu instantâneo aparecerá, escolha CONTAS A PAGAR. Viu? Saia desta tela.
+
+
+IMPRIMIR
+
+Para imprimir, clique em imprimir.
+
+
+Clique na aba CONSULTA, e veja que há opções de consultas aí.
+
+Para finalizar, deverá cadastrar todos necessários.
+
+Clique no "X" da janela, para fechar.
+
+
+Os Cadastros serão encerrados aqui. Como pode observar, as telas funcionam todas do mesmo jeito, utilizando as mesmas teclas de atalho.

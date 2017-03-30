@@ -1,0 +1,20 @@
+VENDA NO BALCÃO
+
+
+-Escolha o vendedor antes de começar.
+
+-Escolha o tipo de pagamento.
+
+-Digite o código do produto, ou tecle F12 (no campo código).
+
+-Tecle CTRL + INSERT, para um novo item.
+
+-Tecle INSERT para nova venda.
+
+-Clique localizar venda, para ver vendas anteriores.
+
+-Contas a receber é gerada automaticamente.
+
+-Na guia consulta, poderá exibir a venda do dia, ou de um período.
+
+-Observe a barra de status, ela indica toda tela que o mouse estiver.

@@ -1,0 +1,23 @@
+ENTRADA DE PRODUTO
+
+
+
+AO DAR SAIDA, DARÁ BAIXA NO ESTOQUE.
+
+
+Tecle INSERT, preencha os campos, tecle F12, no campo código, localize o produto e tecle insert.
+
+
+ESTOQUE
+
+Clique em um produto na grade, no campo código e tecle F5.
+
+
+CONSULTAS
+
+Clique na palavra grifada (número).
+
+
+
+
+

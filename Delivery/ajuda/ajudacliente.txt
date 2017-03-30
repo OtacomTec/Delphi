@@ -1,0 +1,74 @@
+CADASTRO DE CLIENTE
+
+
+Clique no menu CADASTRO e clique em CLIENTE. Vamos cadastrar os clientes que serão utilizados em outras telas.
+
+
+Outra maneira de entrar. Feche este cadastro:
+
+Veja esta barra de nomes, onde está escrito 'MENU PRINCIPAL", digite aí CLIENTE  e tecle ENTER.
+
+Tecle INSERT, vá preenchendo os dados e teclando ENTER, até preencher toda a ficha.
+
+Tecle INSERT, novamente e cadastre outro.
+
+Para cadastrar mais cliente, tecle INSERT, ao terminar, tecle ALT + G.
+
+O Campo CNPJ/CPF
+
+Obs: O campo Telefone e Nome não podem repetir. Caso aconteça o programa emitirá uma mensagem de duplicação.
+
+O programa trabalha com 2 tipos de clientes1 e 2. Alguma empresas preferem classificar os cliente em 1 e 2, exemplo: Os que compram à vista e os que compram fiado. Caso não trabalha assim, não faça nada, ao abrir uma ficha, o programa cadastra como cliente 1.
+
+O botão GERAR FORNECEDOR, gera uma ficha de fornecedor a partir do cliente selecionado.
+
+O botão "PRODUTO CONSUMIDO" gera uma lista de produtos vendidos a o cliente selecionado.
+
+Consulte o cliente clicando nas palavras grifadas (Código, Nome, Fone, etc.).
+
+Tecle F2 e consulte o cliente, numa consulta aproximada.
+
+
+Caso queira cadastrar mais, faça o mesmo processo, tecle INSERT, preencha os campos, no fim, clique em GRAVAR ou tecle ALT + G.
+
+
+Este programa possui uma barra de status, nas telas, elas indicam o que cada componente da tela pode fazer, preste atenção.
+
+Vai movendo o mouse, lentamente, pela tela e olhe na barra de status, na parte inferior da tela de cadastros de estados.
+
+
+VISITA AO CLIENTE:
+
+Esta grade é para controlar observações do cliente, podendo registrar a data da observação.
+
+
+CONSULTAS
+
+Clique na ABA CONSULTA. Veja que temos várias opções.
+
+Para exibir em ordem alfabética, clique no cabeçalho da coluna (para testar clique em Cidade). 
+
+
+ENVIAR EMAIL
+
+Obs: Se você não configurou seu e-mail, não deve utilizar esta opção.
+
+Clique, na grade, no primeiro registro, mantenha a tecla CTRL pressionada e clique em outro, veja que ambos ficaram selecionados, clique em ENVIAR EMAIL.
+
+
+IMPRIMIR
+
+Para imprimir a seleção, clique em imprimir.
+
+Para imprimir etiqueta, clique em imprimir etiqueta.
+
+Obs: A Etiqueta está configurada para Pimaco, 2 colunas, caso queira configurar diferente, saia desta tela, no menu Utilitários, clique em Etiqueta e configurar.
+
+
+Para finalizar, deverá cadastrar todo necessário.
+
+Clique no "X" da janela, para fechar.
+ 
+
+
+
